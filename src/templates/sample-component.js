@@ -1,7 +1,6 @@
 module.exports = `
 <template>
-  <div class="<%NAME_KEBAB%>" id="<%NAME_KEBAB%>
-  ">
+  <div class="<%NAME_KEBAB%>" id="<%NAME_KEBAB%>">
      
   </div>
 </template>
